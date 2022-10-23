@@ -5,7 +5,7 @@
     font-family: sans-serif;
 }
 body{
-    min-height: 55555px;
+    min-height: 5000px;
 }
 nav{
     width: 100%;
@@ -109,6 +109,26 @@ nav button{
     height: 80vh;
     margin-top: 5%;
 }
+.box3{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
+.box4{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
+.box5{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
+.box6{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
 .box img{
     width: 250px;
     margin-left: 20%;
@@ -124,6 +144,26 @@ nav button{
     margin-left: 20%;
     margin-top: 20%;
 }
+.box3 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.box4 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.box5 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.box6 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
 
 .box p{
     margin-top: 7%;
@@ -134,6 +174,22 @@ nav button{
     margin-left: 35%;
 }
 .box2 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
+.box3 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
+.box4 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
+.box5 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
+.box6 p{
     margin-top: 7%;
     margin-left: 35%;
 }
@@ -155,6 +211,30 @@ nav button{
     margin-left: 37%;
 
 }
+.box3 b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
+.box4 b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
+.box5 b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
+.box6 b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
 .izoh{
     width: 75%;
     margin: 0;
@@ -170,6 +250,22 @@ nav button{
     margin-top: 3%;
 }
 .box2 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.box3 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.box4 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.box5 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.box6 h3{
     margin-left: 35%;
     margin-top: 3%;
 }
@@ -199,4 +295,66 @@ nav button{
     font-weight: 800;
     background: #fff;
 
+}
+.box3 button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.box4 button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.box5 button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.box6 button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.futr0{
+    width: 100%;
+    height: 50vh;
+    background: #2c3038;
+    display: flex;
+}
+.container3{
+    margin-left: 3%;
+    margin-top: 8%;
+    color: #aaa;
+}
+.container1{
+    margin-left: 9%;
+    margin-top: 8%;
+    color: #aaa;
+
+
+}
+.futr_icon {
+    display: flex;
+}
+.futr_icon i {
+    color: #aaa;
+
+    margin-left: 5px;
 }

@@ -28,6 +28,9 @@
     .inp img{
         transform: translateX(-120px);
     }
+    .futr0{
+        width: 110%;
+    }
 }
 @media screen and (max-width:800px){
     nav p{
@@ -58,6 +61,9 @@
     }
     .nav_top2{
         width: 137%;
+    }
+    .futr0{
+        width: 140%;
     }
 
 }
@@ -109,10 +115,37 @@
     .box{
         margin-left: 25%;
     }
+    .box1{
+        margin-left: 25%;
+    }
+    .box2{
+        margin-left: 25%;
+    }
+    .box3{
+        margin-left: 25%;
+    }
+    .box4{
+        margin-left: 25%;
+    }
+    .box5{
+        margin-left: 25%;
+    }
+    .box6{
+        margin-left: 25%;
+    }
+    .container1{
+        display: none;
+    }
+    .container3{
+        margin-left: 5%;
+    }
+    .futr0{
+        margin-top: 25%;
+    }
 }
 @media screen and (max-width:415px){
     nav{
-        width: 215%;
+        width: 245%;
         height: 100px;
     }
     nav b{
@@ -135,13 +168,25 @@
     width: 180%;
 }
 .nav_top2{
-    width: 215%;
+    width: 245%;
 }
 .box1{
     transform: translateY(85%) translateX(15%);
 }
 .box2{
     transform: translateY(165%) translateX(15%);
+}
+.box3{
+    transform: translateY(245%) translateX(15%);
+}
+.box4{
+    transform: translateY(325%) translateX(15%);
+}
+.box5{
+    transform: translateY(403%) translateX(15%);
+}
+.box6{
+    transform: translateY(495%) translateX(15%);
 }
 .box p{
     font-size: 40px;
@@ -150,6 +195,19 @@
     font-size: 40px;
 }
 .box2 p{
+    font-size: 40px;
+}
+.box3 p{
+    font-size: 40px;
+}
+.box4 p{
+    font-size: 40px;
+}
+.box5 p{
+    font-size: 40px;
+}
+.box6 p{
+    width: 100%;
     font-size: 40px;
 }
 
@@ -167,6 +225,31 @@
     margin-left: 50%;
 
 }
+.box3 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box4 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box5 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box6 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
 .box h3{
     display: none;
 }
@@ -174,6 +257,18 @@
     display: none;
 }
 .box2 h3{
+    display: none;
+}
+.box3 h3{
+    display: none;
+}
+.box4 h3{
+    display: none;
+}
+.box5 h3{
+    display: none;
+}
+.box6 h3{
     display: none;
 }
 .box img{
@@ -185,6 +280,22 @@
     /* height: s; */
 }
 .box2 img{
+    width: 500px;
+    /* height: s; */
+}
+.box3 img{
+    width: 500px;
+    /* height: s; */
+}
+.box4 img{
+    width: 500px;
+    /* height: s; */
+}
+.box5 img{
+    width: 500px;
+    /* height: s; */
+}
+.box6 img{
     width: 500px;
     /* height: s; */
 }
@@ -214,5 +325,42 @@
     margin-top: 25%;
     font-size: 25px;
 }
-
+.box3 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-3%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.box4 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-3%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.box5 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-3%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.box6 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-3%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.futr0{
+    transform: translateY(1000%);
+    width: 240%;
+}
+.container3{
+    margin-left: 10%;
+}
+.container3 p{
+    font-size: 25px;
+}
 }
