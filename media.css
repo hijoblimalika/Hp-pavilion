@@ -138,10 +138,10 @@
     width: 215%;
 }
 .box1{
-    transform: translateY(100%) translateX(15%);
+    transform: translateY(85%) translateX(15%);
 }
 .box2{
-    transform: translateY(200%) translateX(15%);
+    transform: translateY(165%) translateX(15%);
 }
 .box p{
     font-size: 40px;
