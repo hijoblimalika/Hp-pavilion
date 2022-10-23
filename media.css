@@ -60,12 +60,11 @@
     nav b{
         width: 600%;
         font-size: 35px;
-        margin-top: 15px;
-        color: red;
+        margin-top: 20px;
     }
    .nav_icon i{
     font-size: 60px;
-    margin-top: 15px;
+    margin-top: 20px;
    }
    
 }
