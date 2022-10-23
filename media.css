@@ -54,18 +54,18 @@
 }
 @media screen and (max-width:415px){
     nav{
-        width: 800%;
+        width: 200%;
         height: 15vh;
     }
     nav b{
         width: 600%;
         font-size: 35px;
-        margin-top: 35px;
+        margin-top: 15px;
         color: red;
     }
    .nav_icon i{
     font-size: 60px;
-    margin-top: 30px;
+    margin-top: 15px;
    }
    
 }
