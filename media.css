@@ -101,6 +101,14 @@
     .inp img{
         display: none;
     }
+    .container{
+        grid-template-columns: 1fr;
+        
+
+    }
+    .box{
+        margin-left: 25%;
+    }
 }
 @media screen and (max-width:415px){
     nav{
@@ -129,5 +137,7 @@
 .nav_top2{
     width: 215%;
 }
-   
+.box{
+    margin-left: 55%;
+}
 }
