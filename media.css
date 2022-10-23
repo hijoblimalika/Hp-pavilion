@@ -137,7 +137,82 @@
 .nav_top2{
     width: 215%;
 }
-.box{
-    margin-left: 55%;
+.box1{
+    transform: translateY(100%) translateX(15%);
 }
+.box2{
+    transform: translateY(200%) translateX(15%);
+}
+.box p{
+    font-size: 40px;
+}
+.box1 p{
+    font-size: 40px;
+}
+.box2 p{
+    font-size: 40px;
+}
+
+.box b{
+    font-size: 25px;
+    margin-left: 50%;
+}
+.box1 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box2 b{
+    font-size: 25px;
+    margin-left: 50%;
+
+}
+.box h3{
+    display: none;
+}
+.box1 h3{
+    display: none;
+}
+.box2 h3{
+    display: none;
+}
+.box img{
+    width: 500px;
+    /* height: s; */
+}
+.box1 img{
+    width: 500px;
+    /* height: s; */
+}
+.box2 img{
+    width: 500px;
+    /* height: s; */
+}
+.izoh{
+    width: 160%;
+    font-size: 10px;
+    transform: translateY(25px)translateX(-26%);
+}
+.box button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-10%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.box1 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-10%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+.box2 button{
+    width: 140%;
+    height: 13vh;
+    transform: translateX(-10%) translateY(10%);
+    margin-top: 25%;
+    font-size: 25px;
+}
+
 }

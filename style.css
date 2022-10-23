@@ -99,16 +99,57 @@ nav button{
     height: 80vh;
     margin-top: 5%;
 }
+.box1{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
+.box2{
+    width: 100%;
+    height: 80vh;
+    margin-top: 5%;
+}
 .box img{
     width: 250px;
     margin-left: 20%;
     margin-top: 20%;
 }
+.box1 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.box2 img{
+    width: 250px;
+    margin-left: 20%;
+    margin-top: 20%;
+}
+
 .box p{
     margin-top: 7%;
     margin-left: 35%;
 }
+.box1 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
+.box2 p{
+    margin-top: 7%;
+    margin-left: 35%;
+}
 .box b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
+.box1 b{
+    font-size: 10px;
+    font-weight: 800;
+    margin-left: 37%;
+
+}
+.box2 b{
     font-size: 10px;
     font-weight: 800;
     margin-left: 37%;
@@ -124,7 +165,33 @@ nav button{
     margin-left: 35%;
     margin-top: 3%;
 }
+.box1 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
+.box2 h3{
+    margin-left: 35%;
+    margin-top: 3%;
+}
 .box button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.box1 button{
+    width: 80%;
+    height: 7vh;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-weight: 800;
+    background: #fff;
+
+}
+.box2 button{
     width: 80%;
     height: 7vh;
     margin-left: 10%;
